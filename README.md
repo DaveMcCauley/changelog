@@ -2,6 +2,15 @@
 
 This is a log of what I do ~~every day~~ most days. What tech I work with. And projects I build.
 
+### 2020-11-13
+* Add an upgrade migration to Postgres db
+* Build routes in Express
+* Build a data access controller uses Postgres transactions
+
+### 2020-11-12
+* Add vuepress to a project to server it's docs
+* Build a vuepress plugin to extend markdown
+
 ### 2020-11-11
 * Write content guidelines for a design system
 * Postgres data schema (re)design for better performance
