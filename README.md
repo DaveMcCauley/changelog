@@ -2,6 +2,13 @@
 
 This is a log of what I do ~~every day~~ most days. What tech I work with. And projects I build.
 
+### 2020-12-18
+(last couple of weeks)
+* Build a JSON configurable menu component in VueJS
+* Restructure an app permission model
+* Build a mini NodeJS app to interact with Athena Health's API for medical billing revenue cycle. 
+* New color pallet for a design system
+
 ### 2020-11-13
 * Add an upgrade migration to Postgres db
 * Build routes in Express
