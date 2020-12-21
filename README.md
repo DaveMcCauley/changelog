@@ -2,6 +2,14 @@
 
 This is a log of what I do ~~every day~~ most days. What tech I work with. And projects I build.
 
+### 2020-12-21
+* Write docs for an API
+* User support to solve a bug
+
+### 2020-12-20
+* Build a custom Webpack plugin to convert JSON schema into SCSS variables.
+* Use color variables in [Sketch](https://sketch.com) for a design kit.
+
 ### 2020-12-18
 (last couple of weeks)
 * Build a JSON configurable menu component in VueJS
