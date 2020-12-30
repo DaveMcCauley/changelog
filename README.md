@@ -2,6 +2,14 @@
 
 This is a log of what I do ~~every day~~ most days. What tech I work with. And projects I build.
 
+### 2020-11-27
+* Setup a **very** basic Jenkins CI service.
+* Setup a GitHub Actions service (to compare w/Jenkins)
+
+### 2020-12-23
+* Build a custom webpack loader
+* Convert an front/back appliation into a monorepo, with Lerna
+
 ### 2020-12-21
 * Write docs for an API
 * User support to solve a bug
