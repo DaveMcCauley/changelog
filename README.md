@@ -2,6 +2,12 @@
 
 This is a log of what I do ~~every day~~ most days. What tech I work with. And projects I build.
 
+### 2022-05-19
+* Troubleshoot a third-party API that was misbehaving and sending out flaky errors
+* Build abstract Vue components. Start with generic Javascript classes to handle serializing to and 
+  from the API, then display those components with unique UI controls in a Vue app. 
+* Document design system typography design tokens
+
 ### 2020-11-27
 * Setup a **very** basic Jenkins CI service.
 * Setup a GitHub Actions service (to compare w/Jenkins)
