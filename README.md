@@ -3,6 +3,11 @@
 This is a log of what I do ~~every day~~ most days. What tech I work with. And projects I build.
 
 ### 2022-05-19
+* Wrote Node proxy route to third-party API. 
+* 3 VueJS SFC compnents to display billing results for users
+* Delicious Vue router endpoints
+
+### 2022-05-18
 * Troubleshoot a third-party API that was misbehaving and sending out flaky errors
 * Build abstract Vue components. Start with generic Javascript classes to handle serializing to and 
   from the API, then display those components with unique UI controls in a Vue app. 
