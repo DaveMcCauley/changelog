@@ -2,6 +2,9 @@
 
 This is a log of what I do ~~every day~~ most days. What tech I work with. And projects I build.
 
+### 2022-05-20
+* Wrote docs for design system typography styles
+
 ### 2022-05-19
 * Wrote Node proxy route to third-party API. 
 * 3 VueJS SFC compnents to display billing results for users
