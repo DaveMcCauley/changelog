@@ -2,6 +2,14 @@
 
 This is a log of what I do ~~every day~~ most days. What tech I work with. And projects I build.
 
+### 2022-08-02
+* Built a responsive grid system using CSS grid with SASS for a design system. 
+
+### 2022-07-28
+* Wrote a complex custom validator for express-validator. 
+* Built relational API using Mongoose. `.populate()` is improved, but still needed some manual tweaking for performance.
+* Wrote the docs and tests for above. Highly detailed.
+
 ### 2022-05-20
 * Wrote docs for design system typography styles
 
