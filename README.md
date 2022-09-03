@@ -5,7 +5,7 @@ This is a log of what I do ~~every day~~ most days. What tech I work with. And p
 ### 2022-09-02
 * Doing something one should never do. Writing a date picker. Have a client that
   has a lot of special date issues in their db. The OTS solutions are all just a 
-  bit lacking. 
+  bit lacking. Mostly just want experience of doing this. 
 * Did a survey of website date controls. Southwest Airlines was the best most user 
   friendly. British Airways was dreadful. ALso checked American Airlines, Delta Airlines,
   Hilton and Marriot. Only Southwest Airliens took keyboard input. Accessability?
