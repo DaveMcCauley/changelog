@@ -2,6 +2,22 @@
 
 This is a log of what I do ~~every day~~ most days. What tech I work with. And projects I build.
 
+### 2022-09-02
+* Doing something one should never do. Writing a date picker. Have a client that
+  has a lot of special date issues in their db. The OTS solutions are all just a 
+  bit lacking. 
+* Did a survey of website date controls. Southwest Airlines was the best most user 
+  friendly. British Airways was dreadful. ALso checked American Airlines, Delta Airlines,
+  Hilton and Marriot. Only Southwest Airliens took keyboard input. Accessability?
+  American airlines looked like something from the early 2000s. Incredible.
+* Built a flexible date parser. All of these work: "12-Sep 2021", "9/12/21", 
+  "9/12/2021", "2021-09-12", "9-12-2021", "Sep 12 2021". What it doesn't do, 
+  is dd/mo/yyyy format since no parser can tell if it's dd/mm or mm/dd (unless values 
+  are out of range). Not great international support, but this customer is US-centric.
+
+### 2022-08-15
+* Troubleshot a long-standing but flakey bug in an Agenda.js job. Auth is hard. 
+  
 ### 2022-08-02
 * Built a responsive grid system using CSS grid with SASS for a design system. 
 
